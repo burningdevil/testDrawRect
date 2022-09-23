@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E3E720128DD73A300E6B9D8 /* OverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E3E720028DD73A300E6B9D8 /* OverView.m */; };
 		8E43C69E28DD46C900C77080 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E43C69D28DD46C900C77080 /* AppDelegate.m */; };
 		8E43C6A128DD46C900C77080 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E43C6A028DD46C900C77080 /* SceneDelegate.m */; };
 		8E43C6A428DD46C900C77080 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E43C6A328DD46C900C77080 /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E3E71FF28DD73A300E6B9D8 /* OverView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OverView.h; sourceTree = "<group>"; };
+		8E3E720028DD73A300E6B9D8 /* OverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OverView.m; sourceTree = "<group>"; };
 		8E43C69928DD46C900C77080 /* TestDraw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDraw.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E43C69C28DD46C900C77080 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8E43C69D28DD46C900C77080 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				8E43C6A028DD46C900C77080 /* SceneDelegate.m */,
 				8E43C6A228DD46C900C77080 /* ViewController.h */,
 				8E43C6A328DD46C900C77080 /* ViewController.m */,
+				8E3E71FF28DD73A300E6B9D8 /* OverView.h */,
+				8E3E720028DD73A300E6B9D8 /* OverView.m */,
 				8E43C6A528DD46C900C77080 /* Main.storyboard */,
 				8E43C6A828DD46CA00C77080 /* Assets.xcassets */,
 				8E43C6AA28DD46CA00C77080 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E43C6A428DD46C900C77080 /* ViewController.m in Sources */,
+				8E3E720128DD73A300E6B9D8 /* OverView.m in Sources */,
 				8E43C69E28DD46C900C77080 /* AppDelegate.m in Sources */,
 				8E43C6AF28DD46CA00C77080 /* main.m in Sources */,
 				8E43C6A128DD46C900C77080 /* SceneDelegate.m in Sources */,
